@@ -1,0 +1,11 @@
+clone -- clone a repository into a new repository.
+init  -- create an empty git repository and existing one.
+fetch -- download objects and ref from another repository
+pull --fetch from integrated with another repository or alocalbranch.
+push -- update remote ref along with associated objects.
+switch -- switch other branch 
+tag -- create ,list,delete,signed with gpg
+rebase --reapply the commits on  top of another base tip
+merge  -- join two or more development historyies
+reset-- reseet current head to specific state.
+ 
